@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">WorkingWithImagesAndroid</string>
+    <string name="hello_world">WorkingWithImagesAndroid</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_image">MainImageActivity</string>
+
+</resources>
